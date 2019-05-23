@@ -44,6 +44,6 @@
     "semver": "5.5.0"
   },
   "peerDependencies": {
-    "typescript": "~>3.1"
+    "typescript": "^3.1.1"
   }
 }
